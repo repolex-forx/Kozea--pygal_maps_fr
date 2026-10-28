@@ -1,0 +1,11 @@
+{
+  "org": "Kozea",
+  "repo": "pygal_maps_fr",
+  "versions": [
+    {
+      "commit": "273f6cea52df8d16a5e101ad2491c1663a6e098d",
+      "tag": "1.1.0",
+      "parsed_at": "2026-10-28T17:12:48.122562+00:00"
+    }
+  ]
+}
