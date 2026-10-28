@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "Kozea",
+  "repo": "pygal_maps_fr",
+  "versions": [
+    {
+      "commit": "273f6cea52df8d16a5e101ad2491c1663a6e098d",
+      "parsed_at": "2026-10-28T17:10:19.697935+00:00",
+      "tag": "1.1.0",
+      "filetree": "filetree/273f6cea52df8d16a5e101ad2491c1663a6e098d.nq.gz",
+      "blobs": [
+        "blob/a6756505bfb6a42a91442863362340a53b52809b.nq.gz",
+        "blob/b75b9f7f5591f96e2be0d3b82dcc331515ce6765.nq.gz",
+        "blob/0d02fbdc9c01329e788484edbe4c6dccc95dbd03.nq.gz",
+        "blob/1a89e15e03b8f4044112b6441c28984ae2d5eff4.nq.gz",
+        "blob/046c62d7e694f24f859edb0b1af960b72bf1da95.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/76479d7b1c5361e1d591f2b9bb930bc4a9446bf5.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
