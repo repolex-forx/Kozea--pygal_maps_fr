@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Kozea/pygal_maps_fr/commit/273f6cea52df8d16a5e101ad2491c1663a6e098d",
       "git:hexsha": "273f6cea52df8d16a5e101ad2491c1663a6e098d",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.1.0"
     }
   ]
